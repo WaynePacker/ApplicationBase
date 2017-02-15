@@ -1,0 +1,14 @@
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\bin\Debug\ApplicationBase.exe.config
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\bin\Debug\ApplicationBase.exe
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\bin\Debug\ApplicationBase.pdb
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\MainWindow.g.cs
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\App.g.cs
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase_MarkupCompile.cache
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase_MarkupCompile.lref
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\MainWindow.baml
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.g.resources
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.Properties.Resources.resources
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.csproj.GenerateResource.Cache
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.exe
+C:\Users\Anthony\Documents\GitHub\ApplicationBase\ApplicationBase\ApplicationBase\obj\Debug\ApplicationBase.pdb
